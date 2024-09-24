@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main()
-{
-    printf("Eletro G");
-    return 0;}
+int main(){
+    char letra = '1';
+    char nome[8] ={"gabriela"};
+    printf("%s",nome);
+    printf("%c",letra);
+}
