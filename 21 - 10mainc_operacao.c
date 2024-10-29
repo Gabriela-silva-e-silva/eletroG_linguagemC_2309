@@ -3,7 +3,7 @@ int main(){
 
 char operacao;
 
-printf("a sua operacao e: \n 1 == saldo; \n 2 == extrato; \n3 == saque;\n 4 == sair; ");
+printf("a sua operacao e: \n 1 == saldo; \n2 == extrato; \n3 == saque; \n4 == sair; ");
 scanf("%c",&operacao);
 
 
